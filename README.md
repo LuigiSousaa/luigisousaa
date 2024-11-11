@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=32&pause=1000&color==DDDDDD&center=true&vCenter=true&repeat=false&width=500&lines=Luigi+Sousa" alt="Typing SVG" /></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDDDDD&size=24&center=true&vCenter=true&width=1000&lines=Mobile+application+developer;Tenho+17+anos+de+idade;Atualmente+curso+Desenvolvimento+de+Sistemas+na+escola+Senai+"Luiz+Varga"+‎;Entusiasta+nato+da+tecnologia;Bem+Vindo(a)!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDDDDD&size=24&center=true&vCenter=true&width=1000&lines=Mobile+application+developer;I´m+17+years+of+age;Currently+course+Development+of+Systems+at+school+Senai+"Luiz+Varga"+‎;Born+technology+enthusiast;Welcome!)](https://git.io/typing-svg)
 
 <div align="center" style="margin-bottom:100px">
     <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=luigisousaa&theme=merko&fire=6A5ACD&ring=6A5ACD&currStreakNum=6A5ACD&sideNums=6A5ACD&currStreakLabel=DDDDDD&sideLabels=DDDDDD&dates=DDDDDD" />
