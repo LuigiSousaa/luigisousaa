@@ -11,7 +11,6 @@
 <p align="center">
     <a href="https://github.com/LuigiSousaa?tab=repositories">
       <img alt="my repos" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-0d1117?style=for-the-badge&logoColor=white&logo=repo">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LuigiSousaa?color=0d1117&style=for-the-badge&labelColor=gray&logo=star">
     </a>
     <a href="https://github.com/LuigiSousaa?tab=followers">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/LuigiSousaa?color=0d1117&labelColor=gray&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
