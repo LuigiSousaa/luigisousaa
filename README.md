@@ -6,7 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=32&pause=1000&color==DDDDDD&center=true&vCenter=true&repeat=false&width=500&lines=Luigi+Sousa" alt="Typing SVG" /></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDDDDD&size=24&center=true&vCenter=true&width=1000&lines=Mobile+application+developer;I´m+17+years+of+age;Currently+course+Development+of+Systems+at+school+Senai+"Luiz+Varga"+;Born+technology+enthusiast;Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/color=DDDDDD&size=24&center=true&vCenter=true&width=1000&lines=Software+developer;Mobile+application+developer;Former+WorldSkills+competitor;Computer+Science+student;Born+computer+enthusiast;Welcome!)](https://git.io/typing-svg)
+
 
 <p align="center">
     <a href="https://github.com/LuigiSousaa?tab=repositories">
@@ -70,7 +71,7 @@
       <a href="https://www.java.com/"><img alt="Java" src="https://staging.shields.io/badge/JAVA-007396?logo=javalogo&color=E95420&logoColor=white"></a>
       <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
       <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-      <a href="https://kotlinlang.org/docs/home.html"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
+      <a href="https://kotlinlang.org/docs/home.html"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" style="width: 70px;"></a>
       <a href="https://dart.dev/docs"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2.svg?logo=Dart&logoColor=white"></a>
   </p>
 
@@ -80,13 +81,12 @@
       <a href="https://flutter.dev/"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></a>
       <a href="https://spring.io/projects/spring-boot"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"></a>
       <a href="https://laravel.com/"><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></a>
-      <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Databases</h3>
 
   <p>
-      <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+      <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
       <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
       <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"></a>
   </p>
