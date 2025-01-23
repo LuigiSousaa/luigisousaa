@@ -6,8 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=32&pause=1000&color==DDDDDD&center=true&vCenter=true&repeat=false&width=500&lines=Luigi+Sousa" alt="Typing SVG" /></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/color=DDDDDD&size=24&center=true&vCenter=true&width=1000&lines=Software+developer;Mobile+application+developer;Former+WorldSkills+competitor;Computer+Science+student;Born+computer+enthusiast;Welcome!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=24&center=true&vCenter=true&width=1000&lines=Software+developer;Mobile+application+developer;Former+WorldSkills+competitor;Computer+Science+student;Born+computer+enthusiast;Welcome!)](https://git.io/typing-svg)
 
 <p align="center">
     <a href="https://github.com/LuigiSousaa?tab=repositories">
