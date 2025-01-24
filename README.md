@@ -24,7 +24,7 @@
 </div>
 
 <p align="center">
-    <img align=center title="🏆 My Trophies" src="https://github-profile-trophy.vercel.app/?username=LuigiSousaa&theme=radical&no-bg=true&column=5&margin-w=15&margin-h=15">
+    <img align=center title="🏆 My Trophies" src="https://github-profile-trophy.vercel.app/?username=luigisousaa&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15">
 </p>
 
 ##
@@ -55,6 +55,8 @@
       <img title="My Activity" src="src/images/profile-3d/profile-season-animate.svg" width = "98%"/>
     </a>
   </p>  
+
+<br>
 
 <a href="https://github.com/LuigiSousaa"><img alt="Luigi Sousa Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=LuigiSousaa&bg_color=000000&color=39c63c&line=0ea032&point=ffffff&area=true&hide_border=true" /></a>
   
