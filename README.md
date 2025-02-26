@@ -59,7 +59,9 @@
 <br>
 
 <a href="https://github.com/LuigiSousaa"><img alt="Luigi Sousa Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=LuigiSousaa&bg_color=000000&color=39c63c&line=0ea032&point=ffffff&area=true&hide_border=true" /></a>
-  
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 </details>
 
 <details open> 
