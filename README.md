@@ -37,6 +37,7 @@
   past_experiences:
     - ["Mobile Application Developer Competitor", "Worldskills", "São Paulo Skills", "SENAI", "Brazil", "23/24"]
     - ["Systems Development Technician", "Lume Cerâmica", "Brazil", "2024"]
+    - ["Junior Java Programmer", "Alpha7 Desenvolvimento de Software", "Brazil", "2025"]
 
   fields_of_interests: ["Network Security", "Cryptography", "Blockchain", "Digital Forensics", "Cyber Risk Management",
                         "Cloud Security", "Software as a Service", "Microservices Architecture"]
