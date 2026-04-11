@@ -32,7 +32,7 @@
   ```yaml
   name: Luigi Sousa
   located_in: Limeira, São Paulo (Brazil)
-  job: Mobile Application Developer
+  job: Java Programmer
   education: ["Computer Science": "UNIP", "System Developing": "SENAI"]
   past_experiences:
     - ["Mobile Application Developer Competitor", "Worldskills", "São Paulo Skills", "SENAI", "Brazil", "23/24"]
